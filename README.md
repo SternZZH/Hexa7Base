@@ -9,4 +9,4 @@ Tkinter实现UI面板
 
 1、https://mp.weixin.qq.com/s/X-IoOjhu1JuzMhhWuIBYQg （前端）
 
-2、https://mp.weixin.qq.com/s/RxNwwejxAI4Mg62ilw8fiQ（后端）
+2、https://mp.weixin.qq.com/s/RxNwwejxAI4Mg62ilw8fiQ （后端）
